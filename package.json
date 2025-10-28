@@ -1,0 +1,19 @@
+{
+  "name": "common-utils-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.18.3",
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.2"
+  }
+}
